@@ -7,3 +7,5 @@ A pull requests is a way for a developer to notify his team that a feature or fi
 ### Why is it called a pull request?
 It's called a pull request because you're asking the project to pull changes from your fork. They provide a simple, web-based way to submit your work (often called “patches”) to a project.</br>
 Pull requests are a feature specific to GitHub.
+### What is the difference between a commit and a pull request?
+
