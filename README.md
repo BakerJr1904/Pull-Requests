@@ -1,2 +1,2 @@
 # pull-requests
-In this repository we will create different pull requests
+In this repository I will create different pull requests.
